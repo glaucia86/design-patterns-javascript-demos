@@ -9,3 +9,8 @@ the physical environment will work to solve the problem presented."
 
 <strong>~ Christopher Alexander</strong>
 </blockquote>
+
+### 1) Objetos em JavaScript: ###
+
+- [Task Object] 
+
