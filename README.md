@@ -53,5 +53,5 @@ function ObjectName(param1, param2) {
 }
 ```
 
-[Demo]()
+[Demonstração - Padrão Constructor](https://github.com/glaucia86/design-patterns-javascript-demos/blob/master/1%20-%20Padr%C3%B5es%20de%20Cria%C3%A7%C3%A3o/1.1%20-%20Padr%C3%A3o%20Constructor/task.js)
 
