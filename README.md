@@ -32,7 +32,7 @@ Os Padrões de Projetos que estão na categoria de **Criação** são:
 - Singleton
 - Builder
 
-## 2.1) Padrão: Constructor ##
+#### 2.1) Padrão: Constructor ####
 
 Em linguagens de programação clássicas que são orientadas a objetos um construtor é um método especial usado
 para inicializar um objeto recém-criado uma vez que a memória foi alocada para o inicializador. Em JavaScript,
@@ -42,9 +42,8 @@ Objetos Construtores são usados para criar tipos específicos de objeto - tanto
 aceitar argumentos que um construtor pode usar para definir valores das propriedades e métodos membros quando o
 objeto é criado pela primeira vez.
 
-Exemplo:
-
-´´´
+<strong>Exemplo:</strong>
+```
 function ObjectName(param1, param2) {
     this.param1 = param1;
     this.param2 = param2;
@@ -52,7 +51,7 @@ function ObjectName(param1, param2) {
         return this.param1 + ' ' + this.param2;
     }
 }
-´´´
+```
 
 [Demo]()
 
