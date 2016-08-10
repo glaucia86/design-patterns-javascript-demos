@@ -4,10 +4,8 @@ Curso abordando como desenvolver um código em JavaScript usando os conceitos de
 reutilizáveis e de fácil manuntenção e compreensão.
 
 <blockquote>
-"... each pattern represents our current</br>
-best guess as to what arrangement of</br>
-the physical environment will work to</br>
-solve the problem presented."
+"... each pattern represents our current best guess as to what arrangement of</br>
+the physical environment will work to solve the problem presented."
 
 <strong>~ Christopher Alexander</strong>
 </blockquote>
