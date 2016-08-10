@@ -13,5 +13,6 @@ the physical environment will work to solve the problem presented."
 ### 1) Objetos em JavaScript: ###
 
 - [Task Object](https://github.com/glaucia86/design-patterns-javascript-demos/blob/master/Objetos%20JavaScript/task.js)
-- [Definindo Propriedades]()
+- [Definindo Propriedades](https://github.com/glaucia86/design-patterns-javascript-demos/blob/master/Objetos%20JavaScript/property.js)
+- [Herança]()
 
