@@ -56,3 +56,12 @@ function ObjectName(param1, param2) {
 [Demonstração - Padrão Constructor](https://github.com/glaucia86/design-patterns-javascript-demos/blob/master/1%20-%20Padr%C3%B5es%20de%20Cria%C3%A7%C3%A3o/1.1%20-%20Padr%C3%A3o%20Constructor/task.js)
 
 #### 2.2) Padrão: Prototype ####
+
+De acordo com GoF referente ao Padrão **Prototype**, como que cria objetos com base num modelo de um objeto
+existente por meio da clonagem.
+
+Podemos pensar o Padrão **Prototype**, como sendo baseada na herança prototípica onde criamos objetos que
+funcionam como protótipos para outros objetos. O próprio objeto de protótipo é efetivamente utilizado como
+um modelo para cada objeto que o construtor cria. Se o protótipo da função do construtor usado obtiver
+uma propriedade chamada 'nome', por exemplo, então cada objeto criado pelo mesmo construtor também terá essa
+mesma propriedade.
